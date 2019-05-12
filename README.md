@@ -1,5 +1,5 @@
 # pragure
-官网：http://pragure.cn或http://www.pragure.cn
+官网：http://pragure.cn | http://www.pragure.cn
 
 ### pragure-util
 一个工作中的小工具集合
